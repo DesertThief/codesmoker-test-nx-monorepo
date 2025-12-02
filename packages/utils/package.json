@@ -1,0 +1,13 @@
+{
+  "name": "@codesmoker/utils",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "@codesmoker/shared": "*"
+  }
+}

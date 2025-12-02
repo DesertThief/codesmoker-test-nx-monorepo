@@ -1,0 +1,14 @@
+{
+  "name": "@codesmoker/api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "@codesmoker/shared": "*",
+    "@codesmoker/utils": "*"
+  }
+}
